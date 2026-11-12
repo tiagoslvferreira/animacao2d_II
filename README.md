@@ -1,5 +1,6 @@
 # animacao2d_II
-Projeto final da disciplina de animação 2D II 
+
+### Projeto final da disciplina de animação 2D II 
 
 Pixie é uma pequena fadinha guardiã da floresta, curiosa, energética e um pouco travessa, que utiliza sua magia para proteger as criaturas e preservar o equilíbrio da natureza. Em suas aventuras, ela explora diferentes cantos da floresta, interage com o ambiente e enfrenta pequenas ameaças que colocam seu lar em perigo. Para representar sua personalidade e seus movimentos, a animação contará com oito ciclos e ações: Idle 1, em que Pixie permanece parada, flutuando suavemente no ar; Idle 2, com uma animação alternativa que demonstra sua curiosidade e personalidade; Walk, para seus movimentos de caminhada; Run, quando precisa se deslocar rapidamente; Jump, representando seus saltos; Attack, utilizando sua varinha mágica; Hit, demonstrando a reação ao receber um golpe; e Dead, representando sua derrota. O projeto busca explorar princípios fundamentais da animação 2D, trabalhando expressividade, antecipação, fluidez, peso e personalidade em cada movimento, dando vida à personagem por meio de suas diferentes ações e estados.
 
