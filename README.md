@@ -7,14 +7,14 @@ Pixie é uma pequena fadinha guardiã da floresta, curiosa, energética e um pou
 
 # Animação	-  Características técnicas
 
-Idle 1	- Pixie permanece flutuando suavemente no ar, com movimentos sutis de respiração, pequenas oscilações do corpo e asas batendo lentamente.
-Idle 2	- Animação alternativa em que Pixie demonstra curiosidade, movimentando a cabeça, observando os arredores e fazendo pequenos gestos com as mãos e asas.
-Walk - 	Caminhada leve e delicada, com alternância das pernas, movimentação dos braços e pequenas oscilações das asas. A personagem mantém a varinha em uma das mãos.
-Run	- Corrida acelerada, com maior inclinação do tronco, braços em movimento e asas batendo rapidamente para acompanhar o deslocamento.
-Jump - Pixie realiza um pequeno salto impulsionado pelas asas, com antecipação através da flexão do corpo, seguida de elevação, suspensão no ar e aterrissagem.
-Attack - Pixie posiciona a varinha mágica à sua frente e realiza um movimento de preparação antes de atacar. O bastão e a estrela na ponta da varinha crescem progressivamente e ataca.
-Hit	- A personagem reage ao receber um golpe, realizando um movimento brusco de recuo e acontece uma retração das asas e deslocamento do corpo para trás.
-Dead -	Pixie perde a sustentação no ar e cai lentamente, com as asas perdendo movimento e o corpo assumindo uma pose de derrota até permanecer imóvel.
+### Idle 1	- Pixie permanece flutuando suavemente no ar, com movimentos sutis de respiração, pequenas oscilações do corpo e asas batendo lentamente.
+### Idle 2	- Animação alternativa em que Pixie demonstra curiosidade, movimentando a cabeça, observando os arredores e fazendo pequenos gestos com as mãos e asas.
+### Walk - 	Caminhada leve e delicada, com alternância das pernas, movimentação dos braços e pequenas oscilações das asas. A personagem mantém a varinha em uma das mãos.
+### Run	- Corrida acelerada, com maior inclinação do tronco, braços em movimento e asas batendo rapidamente para acompanhar o deslocamento.
+### Jump - Pixie realiza um pequeno salto impulsionado pelas asas, com antecipação através da flexão do corpo, seguida de elevação, suspensão no ar e aterrissagem.
+### Attack - Pixie posiciona a varinha mágica à sua frente e realiza um movimento de preparação antes de atacar. O bastão e a estrela na ponta da varinha crescem progressivamente e ataca.
+### Hit	- A personagem reage ao receber um golpe, realizando um movimento brusco de recuo e acontece uma retração das asas e deslocamento do corpo para trás.
+### Dead -	Pixie perde a sustentação no ar e cai lentamente, com as asas perdendo movimento e o corpo assumindo uma pose de derrota até permanecer imóvel.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Taxa de quadros - 24 FPS
 Resolução -	1920 × 1080 px
