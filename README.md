@@ -28,3 +28,7 @@ Pixie é uma pequena fadinha guardiã da floresta, curiosa, energética e um pou
 | Elemento mágico | Varinha com estrela na ponta |
 | Animações em loop | Idle 1, Idle 2, Walk e Run |
 | Animações de ação única | Jump, Attack, Hit e Dead |
+
+<img width="640" height="360" alt="animacao" src="https://github.com/user-attachments/assets/90da9647-72ec-4591-8461-80cb1948b48c" />
+
+
