@@ -32,6 +32,6 @@ Pixie é uma pequena fadinha guardiã da floresta, curiosa, energética e um pou
 
 # Quadro de Inspiração
 
-<img width="360" height="120" alt="animacao" src="https://github.com/user-attachments/assets/90da9647-72ec-4591-8461-80cb1948b48c" />
+<img width="400" height="360" alt="animacao" src="https://github.com/user-attachments/assets/90da9647-72ec-4591-8461-80cb1948b48c" />
 
 
