@@ -18,18 +18,15 @@ Pixie é uma pequena fadinha guardiã da floresta, curiosa, energética e um pou
 | **Hit** | A personagem reage ao receber um golpe, realizando um movimento brusco de recuo e acontece uma retração das asas e deslocamento do corpo para trás. |
 | **Dead** | Pixie perde a sustentação no ar e cai lentamente, com as asas perdendo movimento e o corpo assumindo uma pose de derrota até permanecer imóvel. |
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Taxa de quadros - 24 FPS
-
-Resolução -	1920 × 1080 px
-
-Proporção	- 16:9
-
-Estilo	- Cartoon / Fantasia
-
-Personagem	- Pixie
-
-Elemento - mágico	Varinha com estrela na ponta
-
-Animações em loop	Idle 1, Idle 2, Walk e Run
+| Especificação | Detalhe |
+|---------------|---------|
+| Taxa de quadros | 24 FPS |
+| Resolução | 1920 × 1080 px |
+| Proporção | 16:9 |
+| Estilo | Cartoon / Fantasia |
+| Personagem | Pixie |
+| Elemento mágico | Varinha com estrela na ponta |
+| Animações em loop | Idle 1, Idle 2, Walk e Run |
+| Animações de ação única | Jump, Attack, Hit e Dead |
 
 Animações de ação única	Jump, Attack, Hit e Dead
